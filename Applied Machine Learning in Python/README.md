@@ -15,5 +15,5 @@ In this module we have been introduced to evaluation and model selection methods
 
 ## Supervised Machine Learning - Part 2
 
-In this module we dived more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). We learned about the critical problem of data leakage in machine learning and how to detect and avoid it.
+In this module we dived more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks. We learned about the critical problem of data leakage in machine learning and how to detect and avoid it.
 
