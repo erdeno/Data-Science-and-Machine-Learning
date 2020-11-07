@@ -8,7 +8,7 @@ In this course we learned to the basics of the python programming environment, i
 
 ## Basic Data Processing with Pandas
 
-With this assignment I learn the fundamentals of one of the most important toolkit Python has for data cleaning and processing -- pandas. I experienced how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed.
+With this assignment I learn the fundamentals of one of the most important toolkit Python has for data cleaning and processing, "pandas". I experienced how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed.
 
 ## Advanced Data Processing with Pandas
 
